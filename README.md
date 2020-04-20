@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>My Web Page</title>
-  </head>
-  <body>
-    Hello World!
-  </body>
- </html> 
+<head>
+<title>MyWebPage</title>
+</head>
+<body>
+Hello World!
+</body>
+</html> 
