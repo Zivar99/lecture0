@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>
-    MyWebPage
+     MyWebPage
   </title>
 </head>
 <body>
