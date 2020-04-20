@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>My Web Page</title>
-    </head>
+  </head>
   <body>
     Hello World!
   </body>
